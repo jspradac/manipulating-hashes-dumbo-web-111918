@@ -18,6 +18,6 @@ def first_challenge
 
   #remember to return your newly altered contacts hash!
   contacts
-  contacts["Freddy Mercury"][favorite_icecream_flavors] = []
+  contacts["Freddy Mercury"][:name] = "bert"
 end
 
