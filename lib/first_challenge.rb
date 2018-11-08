@@ -17,7 +17,7 @@ def first_challenge
 
 
   contacts
-  contacts["Freddy Mercury"][:name] = "bert"
+  contacts["Freddy Mercury"][:favorite_icecream_flavors] = []
   contacts
 end
 first_challenge
