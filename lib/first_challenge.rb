@@ -18,5 +18,6 @@ def first_challenge
 
   contacts
   contacts["Freddy Mercury"][:name] = "bert"
+  contacts
 end
-
+first_challenge
